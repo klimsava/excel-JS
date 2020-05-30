@@ -1,0 +1,6 @@
+1)Webpack (imports/exports)
+    Babel
+    SCSS
+
+2)Git
+3)
